@@ -4,8 +4,8 @@ holy shit its c++
 # why
 idk
 
-#is it good?
+# is it good?
 no
 
-#where do i run it
+# where do i run it
 idk
