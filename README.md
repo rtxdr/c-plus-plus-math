@@ -8,4 +8,4 @@ idk
 no
 
 # where do i run it
-idk
+exe file that bugs
