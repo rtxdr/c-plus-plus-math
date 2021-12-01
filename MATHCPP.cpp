@@ -27,7 +27,7 @@ void menu1()							//init menu to select formula
 	else if (menu1select == 3)
 		PMENU();
 	else
-		std::cout << "\nError, please enter 1 or 2 to select your formula\n";
+		std::cout << "\nError, invalid value\n";
 }
 
 void PYTE()
